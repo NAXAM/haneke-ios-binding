@@ -4,13 +4,13 @@
         <!-- Required elements-->
         <id>Naxam.Haneke.iOS</id>
         <version>1.0.2</version>
-        <description>Xamarin Binding Library - AFNetworking</description>
+        <description>Xamarin Binding Library - Haneke</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <title>Naxam - AFNetworking</title>
-        <releaseNotes>AFNetworking 1.0.2</releaseNotes>
-        <summary>Xamarin Binding Library - AFNetworking</summary>
+        <title>Naxam - Haneke</title>
+        <releaseNotes>Haneke 1.0.2</releaseNotes>
+        <summary>Xamarin Binding Library - Haneke</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/haneke-ios-binding</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>
